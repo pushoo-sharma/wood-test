@@ -1,0 +1,48 @@
+.ProductSidebar {
+  height: calc(100vh - 80px);
+  width: 200px;
+  padding: 30px;
+  color: white;
+  font-weight: 600;
+  background: linear-gradient(to bottom, #ffffff, #ffffff);
+  border-right: 2px solid rgb(116, 116, 116);
+  position: fixed;
+  left: 0;
+  top: 80px;
+  color: black;
+  height: 150vh;
+
+  .Heading {
+    border-bottom: 1px solid black;
+    height: 46px;
+
+    display: flex;
+    align-items: center;
+  }
+
+  .Logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'mont-bold';
+    font-size: 14px;
+
+    img {
+      border: 1px solid rgb(24, 24, 24);
+      margin-right: 5px;
+    }
+  }
+
+  .Options2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 10%;
+
+    .Option {
+      border: 1px solid white;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+  }
+}

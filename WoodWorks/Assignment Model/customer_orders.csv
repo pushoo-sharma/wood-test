@@ -1,0 +1,6 @@
+Order_ID,Customer_Name,Address,Product_Name,Product_ID,Qty
+ORD001,Nirdesh,"4760, ch de la cote-des-neiges, Montreal, QC, H3V1G3",Door1,DR1,29
+ORD002,Bhargav,"2055, St.Mathieu, Montreal, QC, H3H2J2",Door2,DR2,10
+ORD003,Harshil,"1411, rue du fort, Montreal, QC, H3H 2N7",Deck 1,DK1,36
+ORD004,Harshil,"1411, rue du fort,Montreal, QC, H3H 2N7",Door2,DR2,3
+ORD005,Yagnik,"1645 Boulevard de Maisonneuve O, H3H 2N3",Deck 2,DK2,35

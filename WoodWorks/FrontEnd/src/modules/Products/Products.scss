@@ -1,0 +1,29 @@
+.Products {
+  .ProductsScreen {
+    background-color: white;
+    min-height: calc(100vh - 80px);
+    margin-left: 200px;
+    color: black;
+
+    .CategoriesBox {
+      background: #151d26;
+      color: white;
+      padding: 20px;
+      display: flex;
+      align-items: center;
+      column-gap: 40px;
+
+      .Category {
+        border: 4px;
+        background-color: #090c10;
+        padding: 10px;
+        border-radius: 6px;
+        cursor: pointer;
+
+        &:hover {
+          background-color: black;
+        }
+      }
+    }
+  }
+}

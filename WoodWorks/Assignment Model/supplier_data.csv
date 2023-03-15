@@ -1,0 +1,9 @@
+Supplier_ID,Supplier_Name,Address,Product_Name,Product_ID,Stock,Product_Price
+SUP001,SP1,"2275 Boulevard des Entreprises, Warehouse 07, Terrebonne, QC, J6Y 2A6 ",Door1,DR1,20,100
+SUP001,SP1,"2275 Boulevard des Entreprises, Warehouse 07, Terrebonne, QC, J6Y 2A6 ",Door2,DR2,15,120
+SUP001,SP1,"2275 Boulevard des Entreprises, Warehouse 07, Terrebonne, QC, J6Y 2A6 ",Deck1,DK1,5,70
+SUP001,SP1,"2275 Boulevard des Entreprises, Warehouse 07, Terrebonne, QC, J6Y 2A6 ",Deck2,DK2,30,140
+SUP002,SP2,"195 rue de la Pointe-Langlois, Laval, QC, H7L3J4",Door1,DR1,10,70
+SUP002,SP2,"195 rue de la Pointe-Langlois, Laval, QC, H7L3J4",Door2,DR2,2,50
+SUP002,SP2,"195 rue de la Pointe-Langlois, Laval, QC, H7L3J4",Deck1,DK1,30,90
+SUP002,SP2,"195 rue de la Pointe-Langlois, Laval, QC, H7L3J4",Deck2,DK2,20,120

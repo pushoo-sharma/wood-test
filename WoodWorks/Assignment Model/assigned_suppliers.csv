@@ -1,0 +1,10 @@
+Order ID,Customer Address,Supplier ID,Supplier Address,Total Cost,Qty,Transportation Cost
+ORD001,"4760, ch de la cote-des-neiges, Montreal, QC, H3V1G3",SUP002,"195 rue de la Pointe-Langlois, Laval, QC, H7L3J4",798.854992,10,98.854992
+ORD001,"4760, ch de la cote-des-neiges, Montreal, QC, H3V1G3",SUP001,"2275 Boulevard des Entreprises, Warehouse 07, Terrebonne, QC, J6Y 2A6 ",2094.785728,19,194.785728
+ORD002,"2055, St.Mathieu, Montreal, QC, H3H2J2",SUP002,"195 rue de la Pointe-Langlois, Laval, QC, H7L3J4",216.826816,2,116.82681600000001
+ORD002,"2055, St.Mathieu, Montreal, QC, H3H2J2",SUP001,"2275 Boulevard des Entreprises, Warehouse 07, Terrebonne, QC, J6Y 2A6 ",1182.335088,8,222.335088
+ORD003,"1411, rue du fort, Montreal, QC, H3H 2N7",SUP001,"2275 Boulevard des Entreprises, Warehouse 07, Terrebonne, QC, J6Y 2A6 ",572.390864,5,222.390864
+ORD003,"1411, rue du fort, Montreal, QC, H3H 2N7",SUP002,"195 rue de la Pointe-Langlois, Laval, QC, H7L3J4",2816.882592,30,116.882592
+ORD004,"1411, rue du fort,Montreal, QC, H3H 2N7",SUP001,"2275 Boulevard des Entreprises, Warehouse 07, Terrebonne, QC, J6Y 2A6 ",582.390864,3,222.390864
+ORD005,"1645 Boulevard de Maisonneuve O, H3H 2N3",SUP002,"195 rue de la Pointe-Langlois, Laval, QC, H7L3J4",2516.683392,20,116.683392
+ORD005,"1645 Boulevard de Maisonneuve O, H3H 2N3",SUP001,"2275 Boulevard des Entreprises, Warehouse 07, Terrebonne, QC, J6Y 2A6 ",2322.191664,15,222.191664

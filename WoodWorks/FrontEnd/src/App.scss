@@ -1,0 +1,65 @@
+.App {
+  background-color: #262220;
+  color: rgb(195, 195, 195);
+  min-height: 100vh;
+  font-size: 16px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-float infinite 3s ease-in-out;
+  }
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.App-link {
+  color: rgb(112, 76, 182);
+}
+
+@keyframes App-logo-float {
+  0% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(10px);
+  }
+
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.AunthenticatedApp {
+  margin-left: 200px;
+  min-height: 100vh;
+  padding: 40px;
+  background-color: white;
+  color: black;
+  font-weight: 600;
+}
+
+.bold {
+  font-weight: 600;
+}
+
+.heavy {
+  font-family: 'mont-bold';
+}
+
+.highlight {
+  color: rgb(170, 94, 1);
+}
